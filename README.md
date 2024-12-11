@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Afau-r
-- 👀 I’m interested in data analytics
+- 👀 I’m interested in data analytics & data science
 - 🌱 I’m currently learning SQL and Python
 
 <!---
