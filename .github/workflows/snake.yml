@@ -24,6 +24,7 @@ jobs:
 
       - name: push to output branch
         run: |
+          sudo chown -R $(whoami) dist
           cd dist
           git init
           git checkout -b output
