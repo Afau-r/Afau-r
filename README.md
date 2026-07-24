@@ -28,7 +28,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afau-r&theme=github-dark&hide_border=true" />
 </div>
 
-### Actividad (snake)
+### PlayZone
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Afau-r/Afau-r/output/github-contribution-grid-snake-dark.svg" />
