@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+Analytics+Engineer;Python+%C2%B7+SQL+%C2%B7+PySpark+%C2%B7+Databricks+%C2%B7+Azure;ES+%E2%86%92+remote+%E2%86%92+Bangkok" alt="Typing SVG" />
+<h3>Data Engineer in progress</h3>
+<p>Python · SQL · PySpark · Databricks · Azure</p>
 
 </div>
 
@@ -15,20 +16,16 @@
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### GitHub stats
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Afau-r&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afau-r&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Afau-r&theme=github-dark&hide_border=true" />
-</div>
-
-### PlayZone
+### Explore
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Afau-r/Afau-r/output/github-contribution-grid-snake-dark.svg" />
