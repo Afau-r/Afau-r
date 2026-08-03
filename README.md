@@ -25,10 +25,8 @@
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-<br>
 
 <br>
 
@@ -49,9 +47,5 @@
 | [**gainztracker**](https://github.com/Afau-r/gainztracker) | Tracking de entrenamiento y rendimiento |
 
 <br>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-afau--r.github.io-2F81F7?style=flat-square)](https://afau-r.github.io/portfolio-web/)
 
 </div>
